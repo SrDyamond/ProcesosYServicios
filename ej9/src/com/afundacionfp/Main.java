@@ -39,8 +39,9 @@ public class Main {
     public static void calcularSentencias() {
         int a,b,c,d,e;
 
-
+        Sentencia3_4 sentencia34 = new Sentencia3_4(x,y);
         // Se lanza el proceso secundario
+        sentencia34.start();//donde iniciar?
 
         //S1
         a = x + y;
@@ -49,8 +50,7 @@ public class Main {
         b = a + 3;
         System.out.println("S2:b vale: " + b);
         //S3S4
-        Sentencia3_4 sentencia34 = new Sentencia3_4(x,y);
-        sentencia34.start();
+
         try {
             sentencia34.join();
         } catch (InterruptedException ei) {
