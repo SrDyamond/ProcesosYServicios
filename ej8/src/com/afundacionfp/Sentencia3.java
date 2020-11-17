@@ -14,7 +14,7 @@ public class Sentencia3 extends Thread {
     @Override
     public void run() {
         this.c = x * y;
-        System.out.println("S3:c vale: " + c);
+        System.out.println("S3:C vale: " + c);
     }
 
 

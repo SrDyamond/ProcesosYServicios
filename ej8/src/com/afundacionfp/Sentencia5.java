@@ -16,7 +16,7 @@ public class Sentencia5 extends Thread {
     @Override
     public void run() {
         this.e= a * b *c;
-        System.out.println("S5:e vale: " + e);
+        System.out.println("S5:E vale: " + e);
     }
 
     public int getE() {

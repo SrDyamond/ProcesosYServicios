@@ -14,7 +14,7 @@ public class Sentencia2 extends Thread {
     @Override
     public void run() {
         this.b = x - y;
-        System.out.println("S2:b vale: " + b);
+        System.out.println("S2:B vale: " + b);
     }
 
 

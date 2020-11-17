@@ -55,7 +55,7 @@ public class Main {
             sentencia34.join();
         } catch (InterruptedException ei) {
             ei.printStackTrace();
-            System.out.println("Petated");
+            System.out.println("Rompe");
         }
         //S5
         e = b + sentencia34.getD();

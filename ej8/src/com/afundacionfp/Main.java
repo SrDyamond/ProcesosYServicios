@@ -45,10 +45,9 @@ public class Main {
         // Se lanza el proceso secundario
         sentencia2.start();
         sentencia3.start();
-
-
+        //se lanzan antes para que sea concurrente
         a = x + y;
-        System.out.println("S1:a vale: " + a);
+        System.out.println("S1:A vale: " + a);
 
         try {
             sentencia2.join();
@@ -68,6 +67,7 @@ public class Main {
 
         Sentencia5 sentencia5 = new Sentencia5(a,sentencia2.getB(),sentencia3.getC());
         sentencia5.start();
+        //S5 se lanza antes para poder ser concurrente con S6
         try {
             sentencia5.join();
         } catch (InterruptedException e) {
@@ -76,7 +76,7 @@ public class Main {
         }
 
         f= d- sentencia5.getE();
-        System.out.println("S6:F vale :"+d);
+        System.out.println("S6:F vale :"+f);
 
 
     }
