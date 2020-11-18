@@ -43,6 +43,8 @@ public class Main {
 
 
         // Se lanza el proceso secundario
+      //  Sentencia2 runables2 =new Sentencia2(x , y);
+       // Thread miSentencia=new Thread(runables2);
         sentencia2.start();
         sentencia3.start();
         //se lanzan antes para que sea concurrente
