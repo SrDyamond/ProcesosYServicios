@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4963f068-2480-49cf-a3f2-1d300759e252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9azKirxQ1QtP2ASy2sKdfvLF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.afundacionfp.Hilo_Principal" />
+      <module name="Ej_7" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4963f068-2480-49cf-a3f2-1d300759e252" name="Default Changelist" comment="" />
+      <created>1605115523559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605115523559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1605119496032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605119496032" />
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom" timestamp="1605120846216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605120846216" />
+    <state width="1877" height="157" key="GridCell.Tab.0.center" timestamp="1605120846216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.center/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605120846216" />
+    <state width="1877" height="157" key="GridCell.Tab.0.left" timestamp="1605120846216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.left/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605120846215" />
+    <state width="1877" height="157" key="GridCell.Tab.0.right" timestamp="1605120846216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.right/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605120846216" />
+    <state x="551" y="140" key="new project wizard" timestamp="1605120707552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="140" key="new project wizard/1920.80.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605120707552" />
+  </component>
+</project>

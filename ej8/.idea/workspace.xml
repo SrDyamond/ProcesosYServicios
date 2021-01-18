@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d67cafa-3ace-4fab-8a13-dac8554d009c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/Ej_07_thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/out/production/Ej_07_thread/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/out/production/Ej_07_thread/com/company/Sentencia2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_07_thread/src/com/company/Sentencia2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/Ej_7_Runable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/out/production/Ej_7_Runable/com/afundacionfp/Hilo_Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/out/production/Ej_7_Runable/com/afundacionfp/RunnableS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/src/com/afundacionfp/Hilo_Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej_7_Runable/src/com/afundacionfp/RunnableS2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l3QyBe11fdGo746ipPE21fVXVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d67cafa-3ace-4fab-8a13-dac8554d009c" name="Default Changelist" comment="" />
+      <created>1606823546201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606823546201</updated>
+    </task>
+    <servers />
+  </component>
+</project>
